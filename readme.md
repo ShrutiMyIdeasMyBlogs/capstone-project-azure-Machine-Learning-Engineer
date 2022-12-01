@@ -114,5 +114,5 @@ Logisitic Regression was run with various values of hyperparemeter and the best 
 The Automl model has been deployed succesfully and the screenshot has been attached in the images folder.
 
 ## Screen Recording
-Following is the screen recording.The voice in the recording is not available.The Video first shows the deployment of the model as Restend point,after that it has been consumed succesfully on the data.In the end service and compute have been deleted
+Following is the screen recording.The voice in the recording is not available.First it shows the deployment of the model as rest-end point,after that it has been consumed succesfully on the data.In the end service and compute have been deleted
 https://youtu.be/vwNl55CvvxE
